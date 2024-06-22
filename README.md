@@ -1,3 +1,7 @@
+# IndiBank - Modern UI/UX website using React.js & Tailwind CSS
+
+![IndiBank](https://i.ibb.co/Kj2kptp/Screenshot-2024-06-22-195641.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
